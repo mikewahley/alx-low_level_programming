@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /* 
- *main - This is a c proram that prints using puts
- *return - return a new line
-*/
+ * main - This is a c proram that prints using puts
+ * return - return a new line
+ */
 
 int main(void)
 {
